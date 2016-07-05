@@ -22,6 +22,7 @@ import android.widget.Toast;
 public class SayHelloJava extends Activity {
     /** Initializes the app when it is first created. */
     @Override
+    //this is change
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         String appName = "SayHello Application";
